@@ -12,6 +12,7 @@ nnoremap <silent> <C-p> :bp<CR>
 nnoremap <silent> <ESC><ESC> :nohlsearch<CR>
 nnoremap <silent> <C-t> :term ++curwin ++noclose<CR>
 autocmd FileType text setlocal textwidth=0
+set mouse=a
 " window visual -------------------------------------------------------------
 set number
 set nowrap

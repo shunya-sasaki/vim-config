@@ -1,0 +1,15 @@
+{
+  "suggest.noselect": true,
+  "Lua.diagnostics.globals": ["vim", "ops"],
+  "python.formatting.provider": "black",
+  "python.linting.flake8Enabled": true,
+  "pyright.inlayHints.functionReturnTypes": false,
+  "pyright.inlayHints.variableTypes": false,
+  "pyright.inlayHints.parameterTypes": false,
+  "pyright.organizeimports.provider": "isort",
+  "snippets.ultisnips.pythonPrompt": false,
+  "markdownlint.config": {
+    "default": true,
+    "line_length": false
+  }
+}

@@ -8,6 +8,7 @@ Configuration files for Neovim.
 - [Git](https://git-scm.com)
 - [Node.js](https://nodejs.org/en)
 - [Lazygit](https://github.com/jesseduffield/lazygit)
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
 
 ### Optional
 

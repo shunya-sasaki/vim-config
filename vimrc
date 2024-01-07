@@ -119,6 +119,7 @@ nnoremap <silent> <Leader>g :term ++curwin ++noclose lazygit<CR>
 " Fussy Finder ---------------------------------------------------------------
 " fzf " ----------------------------------------------------------------------
 nnoremap <silent> <Leader>ff :Files<CR>
+let $FZF_DEFAULT_COMMAND = "rg --files --hidden -g '!.git/'"
 
 " Filer ----------------------------------------------------------------------
 " nerdtree
